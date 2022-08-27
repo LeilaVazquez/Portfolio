@@ -1,0 +1,204 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-family:nunito;
+}
+
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 350px;
+
+}
+
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 320px) {
+    .jumbotron {
+        font-family:Cabin;    
+        margin-top: 20px;
+        background-color:#f8f9fa;
+        
+    }
+        .jumbotron col-md-5{
+            padding-left:5px;
+        }
+
+        .jumbotron img {
+          width:100px;
+          height:100px;
+          border-radius:9px; 
+        }
+
+    .nombre {
+        color: #8dc3f0;
+        font-family:cabin;
+        
+        
+    }
+
+    .body-content {
+        padding: 0;
+    }
+}
+
+.sobre{
+    padding: 30px 0px 30px 0px;
+    font-family:nunito;
+    
+}
+
+.sobre h3{
+    font-size:30px;
+    
+}
+
+.proy {
+    padding: 30px 0px 30px 0px;
+
+}
+
+.proy h3{
+    font-size: 30px;
+}
+
+.stack {
+    padding: 30px 0px 30px 0px;
+
+}
+
+    .stack h3 {
+        font-size: 30px;
+    }   
+
+.contacto {
+    padding: 30px 0px 30px 0px;
+}
+
+    .contacto h3 {
+        font-size: 30px;
+    }
+
+
+.abouth1 {
+    padding-bottom: 10px;
+}
+
+.abouth3 {
+    padding-bottom: 40px;
+}
+
+.edu {
+    font-size: 25px;
+    padding-top: 25px;
+    padding-bottom:10px;
+}
+
+.edu p{
+    font-size: 20px;
+    padding-top:15px;
+    padding-bottom:20px;
+ 
+}
+
+.exp{
+    font-size: 25px;
+    padding-top: 25px;
+    
+}
+
+    .exp p {
+        font-size: 20px;
+        padding-top: 15px;
+        
+    }
+
+    .frase{
+        padding-top:20px;
+       
+    }
+
+.proj {
+    padding-bottom: 40px;
+}
+
+.web {
+    padding-bottom:40px;
+}
+img.html{
+    width:753px;
+    height:368px;
+}
+
+img.imgcpp {
+    width: 661px;
+    height: 382px;
+}
+
+img.imgcss{
+    width: 737px;
+    height:472px;
+}
+
+img.imgcsharp{
+    width: 694px;
+    height:423px;
+}
+
+
+.css {
+    padding-bottom: 40px;
+}
+
+.cpp {
+    padding-bottom: 40px;
+}
+
+.csharp {
+    padding-bottom: 40px;
+}
+
+.git {
+    padding-bottom: 40px;
+}
+
+.stacktecno {
+    padding-bottom:40px;
+}
+
+.mail{
+    padding-bottom: 20px;
+    
+}
+
+.contactame {
+    padding-bottom: 10px;
+}
+
+.ubi {
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.tel {
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.form-control {
+    margin-bottom:20px;
+}
+
+
+
+
