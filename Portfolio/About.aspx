@@ -17,9 +17,9 @@
                 <div class="edu">
                     EDUCACIÓN
                      <p>
-                         Actualmente me encuentro cursando el segundo cuatrimestre de la Tecnicatura 
+                         Actualmente me encuentro estudiando en 42 Barcelona y cursando el segundo año de la Tecnicatura 
                         Universitaria en Programación de la Universidad Tecnológica Nacional (Buenos Aires, Argentina).
-                        Empecé de forma autodidacta en el mundo de la programación por el año 2020, me forme en HTML, CSS, SQL y C#.
+                        Empecé de forma autodidacta en el mundo de la programación por el año 2020, me formé en HTML, CSS, SQL y C#.
                         También soy Licenciada en Administración de Empresas recibida de la Universidad Abierta Interamericana en el año 2016.
                      </p>
                 </div>
